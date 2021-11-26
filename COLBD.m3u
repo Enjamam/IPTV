@@ -36,7 +36,9 @@ http://203.80.191.3:8089/load/nagoriktv/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MY TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e3/My_TV_Logo.png" group-title="Bangla Entertainment",MY TV
 http://203.80.191.3:8089/load/mytv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Channel 9 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Channel9_bd.svg/520px-Channel9_bd.svg.png" group-title="External",Channel 9 HD
-https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channel9hd.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Channel 9 HD 2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Channel9_bd.svg/520px-Channel9_bd.svg.png" group-title="External",Channel 9 HD 2
+http://tv.alphamediazone.com:8089/thunderbd/4/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Pogo" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQUDc2IedgFG7neZP1gzxgPmfKwOWOjmDVblPsjdQZsN5NI7PLh&usqp=CAU" group-title="External",Pogo
 https://ott.bingebd.com/live/ngrp:afjd-asdt-100df-03as-f7as-1ffd2-t12a-sjt32x-zp3e-dsf-3b7aa-gad-621h-adhay-en126-pogo623-ba7df-heb-f36be-f63-rha/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NICK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nick.svg/330px-Nick.svg.png" group-title="External",NICK
@@ -50,7 +52,7 @@ http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6627/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sony BBC Earth HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTnqECoI8IWP-QiTPa6Cw6e22MegaQdFtq6M9TUH4ZYqGGabZZY&usqp=CAU" group-title="External",Sony BBC Earth HD
 https://feed.play.mv/live/10005200/7EsSDh7aX6/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Star Jalsha HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSxiWBdL7Z_d89XQbHY6jO1cVwx2ZnRQG2JAlcfi_tzjcAkr2PL&usqp=CAU" group-title="External",Star Jalsha HD
-http://173.199.120.51/hls/chsj.m3u8
+http://opplex.tv:8080/live/993300/993300/167617.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Jalsha Movies HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT5C-fDaaF5RdvNdQcfBQdhCjZ5WBeLWGEn97C1ZTNFKntoh7Hs&usqp=CAU" group-title="External",Jalsha Movies HD
 http://suncable.serveftp.com/jalshamuvies-enc/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Dhoom Music" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSTzEQ9heTuhfYJcQAMkTkhi3-vFnFAN2QWDXyLlMGmyJCqafMF&usqp=CAU" group-title="External",Dhoom Music
@@ -81,14 +83,20 @@ https://m-c01-j2apps.s.llnwi.net/live_hd/0306.9XM.in.m3u8
 https://m-c01-j2apps.s.llnwi.net/live/0781.9XJalwa.in_480p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Music Mastii" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="External",Music Mastii
 http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/index.m3u8?Live-TV™
+#EXTINF:-1 tvg-id="" tvg-name="BTV World" tvg-logo="https://2.bp.blogspot.com/-X3GWMRvX6j0/Vtl5BL2Pu0I/AAAAAAAAAHo/8Sou_MnsF9w/s1600/BTV%2BLive.gif" group-title="External",BTV World
+http://103.106.2.149:13456/btv_world.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bangladesh Television CTG" tvg-logo="https://i.imgur.com/sTZelfs.png" group-title="External",Bangladesh Television CTG
+http://103.106.2.149:13456/btv_ctg.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MTV Biggest" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRzfGgs_rEmtSGXF3ND83x9yqQ-ec-DY5dnYdxcrE-1GD4afm4m&usqp=CAU" group-title="External",MTV Biggest
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_2400.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="T Sports HD" tvg-logo="https://i.imgur.com/CJUmEHD.png" group-title="External",T Sports HD
+http://tv.alphamediazone.com:8089/thunderbd/1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Star Sports 2 HD" tvg-logo="https://i.imgur.com/VcSPzlc.png" group-title="External",Star Sports 2 HD
+http://tv.alphamediazone.com:8089/thunderbd/26/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Ary Musik" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bb/ARY_Musik_logo.png" group-title="External",Ary Musik
 http://stream.arylive.com/arymusik/myStream/tracks-v3a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sangsad TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/15/Sangsad_Television_Logo.jpg" group-title="External",Sangsad TV
 https://ott.bingebd.com/live/ngrp:afjd-asdt-100df-03as-f7as-1ffd2-t12a-sjt32x-zp3e-dsf-3b7aa-gad-621h-adhay-en126-sangsad_tv623-ba7df-heb-f36be-f63-rha/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bangladesh Television CTG" tvg-logo="https://i.imgur.com/sTZelfs.png" group-title="External",Bangladesh Television CTG
-http://103.106.2.149:13456/btv_ctg.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="iTV" tvg-logo="https://i.ibb.co/0JLNqRC/Itv.jpg" group-title="External",iTV
 http://162.244.81.142:1935/live/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Kadak Hits" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcToQpiCiXj6wk4vrliOLd0y_GlrmwbUzmbyPykA5P_Vr1GUP36x&usqp=CAU" group-title="External",Kadak Hits
