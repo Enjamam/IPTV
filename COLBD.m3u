@@ -3,6 +3,8 @@
 http://203.80.191.3:8089/load/gazitv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BTV World" tvg-logo="https://2.bp.blogspot.com/-X3GWMRvX6j0/Vtl5BL2Pu0I/AAAAAAAAAHo/8Sou_MnsF9w/s1600/BTV%2BLive.gif" group-title="Bangladesh Govt.",BTV World
 http://203.80.191.3:8089/somoy/btvbd-office-sg.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sangsad TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/15/Sangsad_Television_Logo.jpg" group-title="Bangladesh Govt.",Sangsad TV
+http://203.80.191.3:8089/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/songsodtv-world.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ATN Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATN_Bangla.svg/240px-ATN_Bangla.svg.png" group-title="Bangla Entertainment",ATN Bangla
 http://203.80.191.3:8089/load/atnbangla/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Channel I HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Channel-i.svg/384px-Channel-i.svg.png" group-title="Bangla Entertainment",Channel I HD
@@ -42,7 +44,7 @@ http://tv.alphamediazone.com:8089/thunderbd/4/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Pogo" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQUDc2IedgFG7neZP1gzxgPmfKwOWOjmDVblPsjdQZsN5NI7PLh&usqp=CAU" group-title="External",Pogo
 https://ott.bingebd.com/live/ngrp:afjd-asdt-100df-03as-f7as-1ffd2-t12a-sjt32x-zp3e-dsf-3b7aa-gad-621h-adhay-en126-pogo623-ba7df-heb-f36be-f63-rha/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NICK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nick.svg/330px-Nick.svg.png" group-title="External",NICK
-http://103.109.56.116/live/skyfeed1014/index.m3u8
+https://tvstream.space/jtv/eee.php?c=Nick_Bangla&q=800&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Nick Jr" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRw5Ywd0kn1Yw7hokd_rVx6XbAiWM9cbXf4tUWccAx3cel5eq5A&usqp=CAU" group-title="External",Nick Jr
 http://103.153.39.34:8000/play/a04r/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sonic" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2b/Nickelodeon_Sonic_logo.png/150px-Nickelodeon_Sonic_logo.png" group-title="External",Sonic
@@ -95,8 +97,6 @@ http://tv.alphamediazone.com:8089/thunderbd/1/index.m3u8
 http://tv.alphamediazone.com:8089/thunderbd/26/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Ary Musik" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bb/ARY_Musik_logo.png" group-title="External",Ary Musik
 http://stream.arylive.com/arymusik/myStream/tracks-v3a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sangsad TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/15/Sangsad_Television_Logo.jpg" group-title="External",Sangsad TV
-https://ott.bingebd.com/live/ngrp:afjd-asdt-100df-03as-f7as-1ffd2-t12a-sjt32x-zp3e-dsf-3b7aa-gad-621h-adhay-en126-sangsad_tv623-ba7df-heb-f36be-f63-rha/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="iTV" tvg-logo="https://i.ibb.co/0JLNqRC/Itv.jpg" group-title="External",iTV
 http://162.244.81.142:1935/live/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Kadak Hits" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcToQpiCiXj6wk4vrliOLd0y_GlrmwbUzmbyPykA5P_Vr1GUP36x&usqp=CAU" group-title="External",Kadak Hits
@@ -107,13 +107,17 @@ http://rtmp.smartstream.video:1935/mhonemusic/mhonemusic/chunklist.m3u8
 https://live.hungama.com/linear/pop-pataka/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Public Music" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="External",Public Music
 http://103.199.161.254/Content/publicmusic/Live/Channel(PublicMusic)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery" tvg-logo="https://latestlearnerships.com/wp-content/uploads/2016/11/discovery-careers-jobs-internships-vacancies-learnership-programme-310x165.jpg" group-title="External",Discovery
+http://jo123.biz/jweb/m3u8.php?c=Discovery_Channel_Hindi&q=600&e=junk.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nick (Bangla)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nick.svg/330px-Nick.svg.png" group-title="External",Nick (Bangla)
+http://jo123.biz/jweb/m3u8.php?c=Nick_Bangla&q=800&e=junk.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Duronto TV" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/3/39/à¦¦à§à¦°à¦¨à§à¦¤_à¦Ÿà¦¿à¦­à¦¿_à¦²à§‹à¦—à§‹.jpg/170px-à¦¦à§à¦°à¦¨à§à¦¤_à¦Ÿà¦¿à¦­à¦¿_à¦²à§‹à¦—à§‹.jpg" group-title="Kids",Duronto TV
 http://203.80.191.3:8089/ban-duronto/tracks-v1a1/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Cartoon Network" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTriqQiQCfQXMvr_Ak8e-T7vwUSpXsdzf_OYg4S0bhmSXiMpPKv&usqp=CAU" group-title="Kids",Cartoon Network
 http://203.80.191.3:8089/nimble_live/cartoonnetwork/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NICK HD+" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSfq48KvLWpPeT7HitixQ08F8487HskZv86vw&usqp=CAU" group-title="Kids",NICK HD+
 http://203.80.191.3:8089/load/nick/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Kids (Hindi)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dc/2016_Discovery_Kids_logo.svg" group-title="Kids",Discovery Kids (Hindi)
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dc/2016_Discovery_Kids_logo.svg" group-title="Kids",Discovery Kids
 http://203.80.191.3:8089/load/discoverykids/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ATN News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/ATN_News_Logo_3.GIF/120px-ATN_News_Logo_3.GIF" group-title="Bangla News",ATN News
 http://203.80.191.3:8089/load/atnnews/chunks.m3u8
@@ -143,6 +147,8 @@ http://203.80.191.3:8089/load/sonyaath/chunks.m3u8
 http://203.80.191.3:8089/load/colorsbanglahd/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Zee Bangla Cinema" tvg-logo="https://i.imgur.com/M6GyIvI.png" group-title="Indian Bangla Movies",Zee Bangla Cinema
 http://203.80.191.3:8089/load/zeebanglacinema/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Jalsha Movies HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT5C-fDaaF5RdvNdQcfBQdhCjZ5WBeLWGEn97C1ZTNFKntoh7Hs&usqp=CAU" group-title="Indian Bangla Movies",Jalsha Movies HD
+http://203.80.191.3:8089/jalshamuvies-enc/video.m3u8/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Star Plus HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTsqYP00JX6oXBCFzX0G7LdQ1GUt-yGdEn7dFB5V7hHYhca30g-&usqp=CAU" group-title="Hindi Entertainment",Star Plus HD
 http://203.80.191.3:8089/nimble_live/sarplushd/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Star Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/StarPlus_logo.jpg" group-title="Hindi Entertainment",Star Plus
@@ -243,3 +249,7 @@ http://203.80.191.3:8089/load/arydigital/playlist.m3u8
 http://203.80.191.3:8089/load/humtv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="A Plus" tvg-logo="https://en.wikipedia.org/wiki/A-Plus_TV#/media/File:A-Plus_TV_Logo.png" group-title="Pakistani",A Plus
 http://203.80.191.3:8089/load/aplus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Madina TV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSWthkB8XJdhOeVobjoay3b3OLCP4KQq5kapJqC=s900-c-k-c0x00ffffff-no-rj" group-title="Religious",Madina TV
+http://203.80.191.3:8089/nimble_live/madina/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Makkah TV" tvg-logo="https://www.jagobd.com/wp-content/uploads/2021/04/makkahtv.jpg" group-title="Religious",Makkah TV
+http://203.80.191.3:8089/nimble_live/makkah/playlist.m3u8
